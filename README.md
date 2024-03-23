@@ -1,14 +1,14 @@
 # Displaying-Images-in-Snowflake-based-Native-Streamlit-Apps-Using-Plotly
-Overview:
+##  Overview:
 In the realm of data applications, one often encounters intriguing challenges. Recently, I found myself grappling with the task of integrating image display functionality into a Streamlit app built on Snowflake, a cloud-based data platform. This journey led me to explore innovative solutions and uncover new possibilities. Here's a glimpse into my adventure.
 
-A Challenge Unveiled:
+##  A Challenge Unveiled:
 As I embarked on the development journey, I encountered a hurdle - Snowflake's lack of native support for displaying images using Streamlit's built-in function, st.image(). This limitation sparked my curiosity and ignited a quest for a workaround.
 
-Innovative Solutions:
+##  Innovative Solutions:
 Amidst the challenge, I stumbled upon a creative workaround using Plotly Express, a versatile visualization library. This approach involved harnessing the power of Plotly to seamlessly incorporate image display functionality into the Streamlit app.
 
-Crafting the Solution:
+##  Crafting the Solution:
 With determination fueling my efforts, I set out to implement the solution step by step. First, I imported the necessary libraries, including Streamlit, Plotly Express, and skimage for image processing. Then, I meticulously crafted the code to load the image data, create a Plotly figure, and customize it to suit my needs. Finally, I integrated the Plotly figure into the Streamlit interface, thereby overcoming the challenge with finesse.
 
 
