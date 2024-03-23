@@ -46,7 +46,7 @@ As I reflect on this journey, I'm reminded of the power of innovation in overcom
 As you navigate your own development endeavors, remember to embrace challenges as opportunities for growth. With innovation as your compass and determination as your guide, there's no limit to what you can achieve in the ever-evolving landscape of data applications.
 
 
-**#note: **
+#  note:
 read the complete blog on Medium link https://medium.com/@jitkoley7/displaying-images-in-snowflake-based-native-streamlit-apps-using-plotly-bb8efdc091c7
 
 
