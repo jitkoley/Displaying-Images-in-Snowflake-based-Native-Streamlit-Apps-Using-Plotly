@@ -11,6 +11,7 @@ Amidst the challenge, I stumbled upon a creative workaround using Plotly Express
 Crafting the Solution:
 With determination fueling my efforts, I set out to implement the solution step by step. First, I imported the necessary libraries, including Streamlit, Plotly Express, and skimage for image processing. Then, I meticulously crafted the code to load the image data, create a Plotly figure, and customize it to suit my needs. Finally, I integrated the Plotly figure into the Streamlit interface, thereby overcoming the challenge with finesse.
 ...................................................................................................
+
 A Glimpse into the Code:
 
 # Importing Libraries
@@ -33,6 +34,8 @@ fig.update_yaxes(showticklabels=False, showgrid=False, zeroline=False)
 # Displaying Plotly Figure in Streamlit
 st.sidebar.plotly_chart(fig, config={'displayModeBar': False})
 ...........................................................................................................................
+
+
 A Triumph of Innovation:
 Through perseverance and ingenuity, I successfully navigated the challenge posed by Snowflake's limitations. The integration of Plotly Express into the Streamlit app not only resolved the issue but also opened doors to a myriad of possibilities for enhancing interactivity and visual appeal.
 
